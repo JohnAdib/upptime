@@ -1,17 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: MrJavadAdib # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Jibres.ir
+    url: https://jibre.ir
+  - name: Jibres.com
+    url: https://jibres.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
