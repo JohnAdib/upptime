@@ -4,17 +4,27 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Jibres.ir
-    url: https://jibre.ir
   - name: Jibres.com
     url: https://jibres.com
+  - name: Jibres.ir
+    url: https://jibres.ir
+  - name: Talambar.ir
+    url: https://talambar.ir
+  - name: Talambar.com
+    url: https://talambar.com
+  - name: CDN Talambar.com
+    url: https://cdn.talambar.com
+  - name: CDN Talambar.ir
+    url: https://cdn.talambar.ir
+  - name: Cloud Talambar.com
+    url: https://cloud.talambar.com
+  - name: Cloud Talambar.ir
+    url: https://cloud.talambar.ir
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
