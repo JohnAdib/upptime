@@ -4,18 +4,20 @@
     "url": "https://jibres.com",
     "icon": "https://favicons.githubusercontent.com/jibres.com",
     "slug": "jibres-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 567,
     "timeDay": 609,
     "timeWeek": 594,
     "timeMonth": 587,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 5
+    }
   },
   {
     "name": "Jibres.ir",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/jibres.ir",
     "slug": "jibres-ir",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.70%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.70%",
     "time": 1928,
     "timeDay": 1559,
     "timeWeek": 1749,
-    "timeMonth": 1935,
+    "timeMonth": 1941,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2021-03-15": 3,
+      "2021-03-15": 118,
       "2021-03-04": 18,
       "2021-02-22": 19
     }
@@ -45,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/talambar.ir",
     "slug": "talambar-ir",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.74%",
+    "uptimeDay": "91.94%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.74%",
     "time": 1177,
     "timeDay": 1071,
     "timeWeek": 1121,
-    "timeMonth": 1128,
+    "timeMonth": 1134,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2021-03-15": 2,
+      "2021-03-15": 116,
       "2021-03-04": 17
     }
   },
@@ -74,7 +76,7 @@
     "time": 510,
     "timeDay": 515,
     "timeWeek": 493,
-    "timeMonth": 519,
+    "timeMonth": 518,
     "timeYear": 510,
     "dailyMinutesDown": {}
   },
@@ -92,7 +94,7 @@
     "time": 486,
     "timeDay": 582,
     "timeWeek": 526,
-    "timeMonth": 495,
+    "timeMonth": 492,
     "timeYear": 486,
     "dailyMinutesDown": {}
   },
@@ -102,18 +104,18 @@
     "icon": "https://favicons.githubusercontent.com/cdn.talambar.ir",
     "slug": "cdn-talambar-ir",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.75%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.75%",
     "time": 1217,
     "timeDay": 1017,
     "timeWeek": 1041,
-    "timeMonth": 1139,
+    "timeMonth": 1145,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2021-03-15": 0,
+      "2021-03-15": 115,
       "2021-03-04": 15
     }
   },
@@ -131,7 +133,7 @@
     "time": 798,
     "timeDay": 840,
     "timeWeek": 803,
-    "timeMonth": 807,
+    "timeMonth": 806,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2021-02-08": 121
@@ -151,7 +153,7 @@
     "time": 1596,
     "timeDay": 1099,
     "timeWeek": 1121,
-    "timeMonth": 1139,
+    "timeMonth": 1145,
     "timeYear": 1596,
     "dailyMinutesDown": {
       "2021-02-08": 152
@@ -171,7 +173,7 @@
     "time": 86,
     "timeDay": 44,
     "timeWeek": 73,
-    "timeMonth": 92,
+    "timeMonth": 87,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -189,7 +191,7 @@
     "time": 37,
     "timeDay": 53,
     "timeWeek": 49,
-    "timeMonth": 41,
+    "timeMonth": 40,
     "timeYear": 37,
     "dailyMinutesDown": {}
   }
