@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/jibres.com",
     "slug": "jibres-com",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.90%",
     "time": 567,
     "timeDay": 0,
     "timeWeek": 593,
     "timeMonth": 587,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2021-03-15": 34
+      "2021-03-16": 3,
+      "2021-03-15": 51
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/jibres.ir",
     "slug": "jibres-ir",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "89.87%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.61%",
+    "uptimeDay": "88.43%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.61%",
     "time": 1928,
     "timeDay": 0,
     "timeWeek": 1758,
     "timeMonth": 1941,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2021-03-15": 146,
+      "2021-03-16": 3,
+      "2021-03-15": 164,
       "2021-03-04": 18,
       "2021-02-22": 19
     }
@@ -47,18 +49,19 @@
     "icon": "https://favicons.githubusercontent.com/talambar.ir",
     "slug": "talambar-ir",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.68%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.68%",
     "time": 1176,
     "timeDay": 1140,
     "timeWeek": 1129,
     "timeMonth": 1135,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2021-03-15": 126,
+      "2021-03-16": 3,
+      "2021-03-15": 144,
       "2021-03-04": 17
     }
   },
@@ -67,10 +70,10 @@
     "url": "https://talambar.com",
     "icon": "https://favicons.githubusercontent.com/talambar.com",
     "slug": "talambar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
@@ -78,7 +81,9 @@
     "timeWeek": 529,
     "timeMonth": 525,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-16": 2
+    }
   },
   {
     "name": "CDN Talambar.com",
@@ -104,18 +109,19 @@
     "icon": "https://favicons.githubusercontent.com/cdn.talambar.ir",
     "slug": "cdn-talambar-ir",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.69%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.69%",
     "time": 1212,
     "timeDay": 1006,
     "timeWeek": 1041,
     "timeMonth": 1140,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2021-03-15": 122,
+      "2021-03-16": 3,
+      "2021-03-15": 140,
       "2021-03-04": 15
     }
   },
